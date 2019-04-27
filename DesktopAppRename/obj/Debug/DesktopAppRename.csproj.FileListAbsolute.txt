@@ -1,0 +1,10 @@
+Q:\Programacao\VBA-C#\DesktopAppRename\DesktopAppRename\bin\Debug\DesktopAppRename.exe.config
+Q:\Programacao\VBA-C#\DesktopAppRename\DesktopAppRename\bin\Debug\DesktopAppRename.exe
+Q:\Programacao\VBA-C#\DesktopAppRename\DesktopAppRename\bin\Debug\DesktopAppRename.pdb
+Q:\Programacao\VBA-C#\DesktopAppRename\DesktopAppRename\obj\Debug\DesktopAppRename.csprojAssemblyReference.cache
+Q:\Programacao\VBA-C#\DesktopAppRename\DesktopAppRename\obj\Debug\DesktopAppRename.Form1.resources
+Q:\Programacao\VBA-C#\DesktopAppRename\DesktopAppRename\obj\Debug\DesktopAppRename.Properties.Resources.resources
+Q:\Programacao\VBA-C#\DesktopAppRename\DesktopAppRename\obj\Debug\DesktopAppRename.csproj.GenerateResource.cache
+Q:\Programacao\VBA-C#\DesktopAppRename\DesktopAppRename\obj\Debug\DesktopAppRename.csproj.CoreCompileInputs.cache
+Q:\Programacao\VBA-C#\DesktopAppRename\DesktopAppRename\obj\Debug\DesktopAppRename.exe
+Q:\Programacao\VBA-C#\DesktopAppRename\DesktopAppRename\obj\Debug\DesktopAppRename.pdb
